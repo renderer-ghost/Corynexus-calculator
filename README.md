@@ -28,16 +28,11 @@ include:
   [Fuel Calculator](https://fuel-calculator.scientifique-calculator.workers.dev/) Helps estimate fuel consumption,
                                                                                   travel distance, and trip costs.
 
-  [Frame                                                                          Calculates image aspect ratios and
-  Calculator](https://frame-calculator.scientifique-calculator.workers.dev/)      resolutions.
+  [Frame Calculator](https://frame-calculator.scientifique-calculator.workers.dev/) Calculates image aspect ratios and resolutions.
 
-  [Currency                                                                       Converts currencies using
-  Converter](https://convertisseur-devise.scientifique-calculator.workers.dev/)   exchange-rate data from
-                                                                                  Frankfurter.
+  [Currency Converter](https://convertisseur-devise.scientifique-calculator.workers.dev/)  Converts currencies using exchange-rate data from Frankfurter.
 
-  [Scientific                                                                     A simple, fast scientific
-  Calculator](https://calculatrice.scientifique-calculator.workers.dev/)          calculator with natural
-                                                                                  mathematical notation.
+  [Scientific Calculator](https://calculatrice.scientifique-calculator.workers.dev/)          A simple, fast scientific calculator with natural mathematical notation.
   -------------------------------------------------------------------------------------------------------------------
 
 **[Visit Corynexus Calculator --- the main
