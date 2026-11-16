@@ -20,7 +20,7 @@ The catalogue is actively being developed. The tools currently available
 include:
 
   -------------------------------------------------------------------------------------------------------------------
-  Tool                                                                            What it does
+  Calculators available (more in preparation) :
   ------------------------------------------------------------------------------- -----------------------------------
   [Tip Calculator](https://tip-calculator.scientifique-calculator.workers.dev/)   Helps calculate tips and split
                                                                                   bills.
